@@ -1,0 +1,29 @@
+body {
+    background: rgb(68, 74, 110);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    min-height: 100vh;
+    max-width: 400px;
+}
+
+#content {
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+form {
+    text-align: center;
+}
+
+input{
+    margin: 5px 0px;
+}
+
